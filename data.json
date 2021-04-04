@@ -1,0 +1,28 @@
+{
+    "data" : [
+        {
+            "title": "4월 3일",
+            "date": "2021. 4 / 3",
+            "author": "강재환",
+            "files": [
+                {
+                    "url": "https://player.vimeo.com/video/532635940",
+                    "type": "embed",
+                    "name": "다운로드 안내 영상"
+                }
+            ]
+        },
+        {
+            "title": "4월 9일 (예정)",
+            "date": "2021. 4 / 9",
+            "author": "강재환",
+            "files": [
+                {
+                    "url": "http://msc.freetzi.com/DATA/Python20210409.pdf",
+                    "type": "embed",
+                    "name": "파워포인트"
+                }
+            ]
+        }
+    ]
+}
