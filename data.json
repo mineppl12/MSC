@@ -7,7 +7,7 @@
             "files": [
                 {
                     "url": "https://www.youtube.com/embed/lzbg4TlQeI4?rel=0&color=white",
-                    "type": "embed",
+                    "type": "link",
                     "name": "파이썬 설치 영상"
                 }
             ]
@@ -19,8 +19,13 @@
             "files": [
                 {
                     "url": "http://msc.freetzi.com/DATA/Python20210409.pptx",
-                    "type": "download",
+                    "type": "link",
                     "name": "파워포인트"
+                },
+                {
+                    "url": "https://docs.google.com/document/d/1N-qfHmRz78Ru5FPc6E_M4Ag62DP5yvBEHASvdxgM1Ko/edit?usp=sharing"
+                    "type": "link",
+                    "name": "Google Docs"
                 }
             ]
         }
