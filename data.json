@@ -28,6 +28,18 @@
                     "name": "Google Docs"
                 }
             ]
+        },
+        {
+            "title": "4월 23일",
+            "date": "2021. 4 / 23",
+            "author": "강재환",
+            "files": [
+                {
+                    "url": "https://docs.google.com/document/d/1JNkm_1NM1FU2aA2VnDpAmeybWahGpYR8yhDwNcdwZGY/edit?usp=sharing",
+                    "type": "link",
+                    "name": "Google Docs"
+                }
+            ]
         }
     ]
 }
