@@ -52,6 +52,18 @@
                     "name": "Wiki Docs"
                 }
             ]
+        },
+        {
+            "title": "5월 28일 (예정)",
+            "date": "2021. 5 / 28",
+            "author": "누구게",
+            "files": [
+                {
+                    "url": "https://docs.google.com/document/d/1QwMxoftGrbXTG25A6R1W6jyetJuOcNLa5tsrwq5f6Nc/edit",
+                    "type": "link",
+                    "name": "Google Docs"
+                }
+            ]
         }
     ]
 }
